@@ -1,6 +1,6 @@
 # express_restapi
-shi
-+mongoose路由分离搭建restful api，对用户进行增删改查。
+123
+mongoose路由分离搭建restful api，对用户进行增删改查。
 
 ##工具
 webstrom
